@@ -1,0 +1,5 @@
+imutils
+dlib
+threading
+opencv-python
+openvino
